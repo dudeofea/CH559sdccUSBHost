@@ -1,0 +1,3 @@
+[submodule "vendor/chflasher"]
+	path = vendor/chflasher
+	url = https://github.com/atc1441/chflasher
